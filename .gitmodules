@@ -1,0 +1,9 @@
+[submodule "books-maison-backend"]
+	path = books-maison-backend
+	url = https://github.com/dung204/books-maison-backend.git
+[submodule "books-maison-frontend"]
+	path = books-maison-frontend
+	url = https://github.com/dung204/books-maison-frontend.git
+[submodule "books-maison-mobile"]
+	path = books-maison-mobile
+	url = https://github.com/dung204/books-maison-mobile.git
