@@ -7,3 +7,6 @@
 [submodule "books-maison-mobile"]
 	path = books-maison-mobile
 	url = https://github.com/dung204/books-maison-mobile.git
+[submodule "books-maison-admin"]
+	path = books-maison-admin
+	url = https://github.com/dung204/books-maison-admin.git
